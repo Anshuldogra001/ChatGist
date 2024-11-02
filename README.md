@@ -1,5 +1,8 @@
 # ChatGist
 
+
+>> install and extract the test:
+
 Step 1: Set Up Your Development Environment
 
 1. Install Required Software
