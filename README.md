@@ -1,7 +1,12 @@
 # ChatGist
 
 
->> install and extract the test:
+>> install and extract the test.
+>> install 'llama-2-7b-chat.Q4_K_M.gguf' from huggingface.
+>> test >> pdf-chat >> backend >> loadllm.py     - change the path of llm as per your model path in system.
+here,
+5. model_path = "D:\completed\llama_bloke_pdf\llama-2-7b-chat.Q4_K_M.gguf"
+
 
 Step 1: Set Up Your Development Environment
 
